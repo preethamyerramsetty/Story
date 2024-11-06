@@ -1,1 +1,1 @@
-This is the second file.
+This is the second file which is in branch and will be merged.
